@@ -106,7 +106,7 @@ header {
 .hero-imagem {
   width: 45%;
   max-width: 25vw;
-  min-width: 500px;
+  min-width: 200px;
 }
 
 .hero-imagem img {
