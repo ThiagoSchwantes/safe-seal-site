@@ -314,3 +314,7 @@ footer .social img:hover {
   font-size: 24px;
   font-weight: bold;
 }
+
+.card .example{
+  background-image: url('https://cdn-icons-png.flaticon.com/512/5579/5579250.png');
+}
