@@ -36,4 +36,4 @@ function renderizarServidores(servidores) {
   });
 }
 
-window.onload = fetchData;
+//window.onload = fetchData;
