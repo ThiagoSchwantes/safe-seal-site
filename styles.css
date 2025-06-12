@@ -316,6 +316,7 @@ body {
   background: #ff813f;
   color: white;
   font-size: 0.9rem;
+  margin-top: 15px;
 }
 
 .btn-coffee:hover {
@@ -627,7 +628,6 @@ p,
     padding: 0 15px;
   }
 
-  .hero,
   .sobre,
   .apoie,
   .servidores,
